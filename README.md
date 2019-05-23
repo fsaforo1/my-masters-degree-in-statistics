@@ -274,6 +274,7 @@ Although not necessary, I recommend you take this class simultaneously with an i
 * [Elements of Causal Inference: Foundations and Learning Algorithms ](https://mitpress.mit.edu/books/elements-causal-inference) - Peters et al.
 * [Online Experiments for Computational Social Science](https://eytan.github.io/www-15-tutorial/) - Eytan Bakshy and Sean J. Taylor 
 * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)
+* [Paper: Social Influence in Social Advertising: Evidence from Field Experiments](https://arxiv.org/pdf/1206.4327.pdf) - Eytan et al. 2012.
 
 
 ********************
@@ -372,6 +373,7 @@ Dive into these as much as you can - they are the best materials on Introduction
 * [Data Science and Complex Networks: Real Case Studies with Python](https://global.oup.com/academic/product/data-science-and-complex-networks-9780199639601?cc=us&lang=en&) - Guido Caldarelli and Alessandro Chessa
 * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)  
 * [Example: Exponential Random Graph Modelling](http://rstudio-pubs-static.s3.amazonaws.com/329810_72b09e66276044949bc3bdc2cfcd6161.html)
+
 
 
 *******************

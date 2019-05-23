@@ -406,8 +406,8 @@ $(document).ready(function () {
 <li><a href="#time-series-analysis">Time Series Analysis</a>
 <ul>
 <li><a href="#resampling-methods-for-time-series">Resampling Methods for Time Series</a></li>
-<li><a href="#time-series-anomaly-detection">Time Series Anomaly Detection</a><br />
-</li>
+<li><a href="#time-series-anomaly-detection">Time Series Anomaly Detection</a></li>
+<li><a href="#time-series-changepoint-models">Time Series Changepoint Models</a></li>
 </ul></li>
 <li><a href="#design-of-experiments">Design of Experiments</a></li>
 <li><a href="#categorical-data-analysis">Categorical Data Analysis</a></li>
@@ -430,7 +430,7 @@ $(document).ready(function () {
 <li><a href="#personal-and-practicuum-consulting-projects">Personal and Practicuum Consulting Projects</a><br />
 </li>
 <li><a href="#moocs">MOOCs</a></li>
-<li><a href="#society-of-actuaries-exams">Society of Actuaries Exams</a></li>
+<li><a href="#people-and-programs">People and Programs</a></li>
 <li><a href="#miscs">Miscs</a></li>
 </ul>
 <!-- END_TOC -->
@@ -553,7 +553,8 @@ $(document).ready(function () {
 <li><a href="https://www.springer.com/us/book/9780387975177?gclid=EAIaIQobChMIkP7_gPOv4gIVEpJbCh1A2gFMEAQYAiABEgIoqPD_BwE">Statistical Methods: The Geometric Approach</a> - Alan Agresti (University of Florida)</li>
 <li><a href="https://mysite.science.uottawa.ca/rkulik/mat3378/mat3378-textbook.pdf">Applied Linear Models</a> - Kutner et al.</li>
 <li><a href="https://newonlinecourses.science.psu.edu/stat503/">Design of Experiments</a> - Penn State</li>
-<li><a href="https://daviddalpiaz.github.io/appliedstats/">Applied Statistics with R</a> - David Dalpiaz (University of Illinois - Urbana Champaign)</li>
+<li><a href="https://daviddalpiaz.github.io/appliedstats/">TA Resource: Applied Statistics with R</a> - David Dalpiaz (University of Illinois - Urbana Champaign)</li>
+<li><a href="http://sia.webpopix.org/">GREAT TA Resource: Statistics in Action with R</a></li>
 </ul>
 <hr />
 </div>
@@ -586,6 +587,7 @@ $(document).ready(function () {
 <li><a href="http://people.duke.edu/~rnau/411home.htm">Statistical Forecasting: Regression and Time Series</a> - Robert Nau (Duke University)</li>
 <li><a href="http://www.stat.cmu.edu/~cshalizi/dst/18/">Data over Space and Time</a> - Cosma Shalizi(Carnegie Mellon University)</li>
 <li><a href="https://otexts.com/fpp2/">Forecasting: Principles and Practice</a> - by <a href="https://github.com/robjhyndman">R. J. Hyndman</a> and G. Athanasopoulos</li>
+<li><a href="https://facebook.github.io/prophet/">Forecasting at Scale - Prophet</a> - Facebook see <a href="https://towardsdatascience.com/implementing-facebook-prophet-efficiently-c241305405a3">good example</a></li>
 <li><a href="https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/">Time Series Analysis</a> - Standford University</li>
 <li><a href="https://github.com/nickpoison/tsa4">Time Series Analysis - GitHub R Codes Repo</a></li>
 <li><a href="https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/">Little Book of R for Time Series</a></li>
@@ -603,11 +605,15 @@ $(document).ready(function () {
 </div>
 <div id="time-series-anomaly-detection" class="section level3">
 <h3>Time Series Anomaly Detection</h3>
-<p>I selected the most useful to me from this <a href="https://github.com/yzhao062/anomaly-detection-resources">exhaustive list</a></p>
+<p>Just follow this amazing group, <a href="https://epdlab.heinz.cmu.edu/"><strong>Event and Pattern Detection Laboratory - Carnegie Mellon University</strong></a> and this NYU Professor, <a href="https://cs.nyu.edu/~neill/selected_pubs_by_topic.html">Daniel B. Neill</a>, <a href="https://www.cs.cmu.edu/~neill/papers/">(his other link)</a></p>
+<p>See below a selection of the most relevant links to me from this <a href="https://github.com/yzhao062/anomaly-detection-resources">exhaustive list</a></p>
 <ul>
 <li><a href="https://www.springer.com/us/book/9781461463955">Outlier Analysis</a> - Aggarwal, Charu C.</li>
 <li><a href="https://www.springer.com/us/book/9783319547640">Outlier Ensembles: An Introduction</a> - Aggarwal, Charu C., Sathe, Saket</li>
 <li><a href="webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf">Anomaly Detection: A Tutorial</a></li>
+<li><a href="https://www.cs.cmu.edu/~neill/papers/biothreats2018.pdf">Tutorial: Novel Machine Learning Methods for Public Health and Disease Surveillance</a></li>
+<li><a href="https://www.cs.cmu.edu/~neill/papers/TESS2018.pdf">Tutorial: Efficient Discovery ofHeterogeneous Treatment Effects via Anomalous Pattern Detection</a></li>
+<li><a href="https://anomaly.io/blog/">Blog: Anomaly.io</a></li>
 </ul>
 </div>
 <div id="some-anomaly-detection-software" class="section level3">
@@ -666,6 +672,17 @@ $(document).ready(function () {
 </tr>
 </tbody>
 </table>
+<hr />
+</div>
+<div id="time-series-changepoint-models" class="section level3">
+<h3>Time Series Changepoint Models</h3>
+<p>This content is complementary to <a href="#time-series-anomaly-detection">Time Series Anomaly Detection</a>.</p>
+<ul>
+<li><a href="https://arxiv.org/abs/0710.3742">Paper: Bayesian Online Changepoint Detection</a> - by Ryan Prescott Adams, David J.C. MacKay with some inspired examples like <a href="https://github.com/hildensia/bayesian_changepoint_detection">1</a>, <a href="https://github.com/chenhaotian/Changepoints">2</a> and <a href="http://nowave.it/pages/bayesian-changepoint-detection-with-r-and-stan.html">3</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5464762/">Paper: A Survey of Methods for Time Series Change Point Detection</a> - Samaneh Aminikhanghahi and Diane J. Cook</li>
+<li><a href="http://sia.webpopix.org/changePoints.html">Example: Detection of Changes in Signals</a></li>
+<li><a href="https://link.springer.com/article/10.3758/s13428-016-0754-9">Paper: Detecting Correlation Changes in Multivariate Time Series: A comparison of four non-parametric change point detection methods</a> - Jedelyn Cabrieto</li>
+</ul>
 <hr />
 </div>
 </div>
@@ -773,7 +790,7 @@ $(document).ready(function () {
 <li><a href="http://www.cs.cornell.edu/home/kleinber/networks-book/">Networks, Crowds, and Markets: Reasoning About a Highly Connected World</a> - David Easley and Jon Kleinberg</li>
 <li><a href="https://link.springer.com/book/10.1007%2F978-1-4939-0983-4">Statistical Analysis of Network Data with R</a> - Eric D. KolaczykGábor Csárdi</li>
 <li><a href="https://www.crcpress.com/Bayesian-Networks-With-Examples-in-R/Scutari-Denis/p/book/9781482225587">Bayesian Networks: With Examples in R</a> - Marco Scutari, Jean-Baptiste Denis</li>
-<li><a href="https://global.oup.com/academic/product/data-science-and-complex-networks-9780199639601?cc=us&amp;lang=en&amp;">Data Science and Complex Networks Real Case Studies with Python</a> - Guido Caldarelli and Alessandro Chessa</li>
+<li><a href="https://global.oup.com/academic/product/data-science-and-complex-networks-9780199639601?cc=us&amp;lang=en&amp;">Data Science and Complex Networks: Real Case Studies with Python</a> - Guido Caldarelli and Alessandro Chessa</li>
 <li><a href="https://www.coursera.org/learn/crash-course-in-causality">A Crash Course in Causality: Inferring Causal Effects from Observational Data</a><br />
 </li>
 <li><a href="http://rstudio-pubs-static.s3.amazonaws.com/329810_72b09e66276044949bc3bdc2cfcd6161.html">Example: Exponential Random Graph Modelling</a></li>
@@ -824,7 +841,7 @@ $(document).ready(function () {
 <ul>
 <li><a href="https://lifelines.readthedocs.io/en/latest/Survival%20Analysis%20intro.html">Introduction to Survival Analysis</a></li>
 </ul>
-<p>I have also been trying to learn how to model survival data with Deep Learning algorithms by reading some of the papers from the link below whenever I can.</p>
+<p>I have also been trying to learn how to model survival data with Deep Learning algorithms by reading some of the papers from the link below.</p>
 <ul>
 <li><a href="https://github.com/robi56/Survival-Analysis-using-Deep-Learning/blob/master/README.md">Survial Analysis using Deep Learning</a></li>
 </ul>
@@ -855,8 +872,8 @@ $(document).ready(function () {
 <p>soon…</p>
 <hr />
 </div>
-<div id="society-of-actuaries-exams" class="section level1">
-<h1>Society of Actuaries Exams</h1>
+<div id="people-and-programs" class="section level1">
+<h1>People and Programs</h1>
 <p>soon…</p>
 <hr />
 </div>

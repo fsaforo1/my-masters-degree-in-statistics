@@ -26,7 +26,8 @@ A curated list of resources for my custom-designed Master's degree in Statistics
     * [Regression Analysis](#regression-analysis)
     * [Time Series Analysis](#time-series-analysis)
         * [Resampling Methods for Time Series](#resampling-methods-for-time-series) 
-        * [Time Series Anomaly Detection](#time-series-anomaly-detection)    
+        * [Time Series Anomaly Detection](#time-series-anomaly-detection)
+        * [Time Series Changepoint Models](#time-series-changepoint-models)
     * [Design of Experiments](#design-of-experiments)
     * [Categorical Data Analysis](#categorical-data-analysis)
 * [Advanced Applied](#advanced-applied)
@@ -44,7 +45,7 @@ A curated list of resources for my custom-designed Master's degree in Statistics
 * [Research](#research)
 * [Personal and Practicuum Consulting Projects](#personal-and-practicuum-consulting-projects)    
 * [MOOCs](#moocs) 
-* [Society of Actuaries Exams](#society-of-actuaries-exams)
+* [People and Programs](#people-and-programs)
 * [Miscs](#miscs)
 
 
@@ -80,6 +81,7 @@ I HATED this subject as an undergrad - I don't recall why though :) Now, I can b
 ********************
 
 ## Partial Differential Equations
+
 Personally, this is the most exciting field in applied math that I have encountered so far. The overarching theme is the relationship between space and time variables to rates of change. I took this class because of its deep connections with uncertainty quantification, optimization, network analysis, image analysis and stochastic DEs (most notably, the Black-Sholes in Options Pricing).
 
 * [Notes on Partial Differential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pde_notes.pdf) - John K. Hunter (University of California at Davis)
@@ -165,7 +167,9 @@ This was mostly a slightly refined version of undergrad statistical methods with
 * [Statistical Methods: The Geometric Approach](https://www.springer.com/us/book/9780387975177?gclid=EAIaIQobChMIkP7_gPOv4gIVEpJbCh1A2gFMEAQYAiABEgIoqPD_BwE) - Alan Agresti (University of Florida)
 * [Applied Linear Models](https://mysite.science.uottawa.ca/rkulik/mat3378/mat3378-textbook.pdf) - Kutner et al.
 * [Design of Experiments](https://newonlinecourses.science.psu.edu/stat503/) - Penn State
-* [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/) - David Dalpiaz (University of Illinois - Urbana Champaign)
+* [TA Resource: Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/) - David Dalpiaz (University of Illinois - Urbana Champaign)
+* [GREAT TA Resource: Statistics in Action with R](http://sia.webpopix.org/)
+
 
 ********************
 
@@ -198,11 +202,13 @@ Best taken after after the modules on Generalized Linear Models. I found Dr. Rob
 * [Statistical Forecasting: Regression and Time Series](http://people.duke.edu/~rnau/411home.htm) - Robert Nau (Duke University)
 * [Data over Space and Time](http://www.stat.cmu.edu/~cshalizi/dst/18/) - Cosma Shalizi(Carnegie Mellon University)
 * [Forecasting: Principles and Practice](https://otexts.com/fpp2/) - by [R. J. Hyndman](https://github.com/robjhyndman) and G. Athanasopoulos
+* [Forecasting at Scale - Prophet](https://facebook.github.io/prophet/) - Facebook see [good example](https://towardsdatascience.com/implementing-facebook-prophet-efficiently-c241305405a3)
 * [Time Series Analysis](https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/) - Standford University
 * [Time Series Analysis - GitHub R Codes Repo](https://github.com/nickpoison/tsa4)
 * [Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/)
 * [Interesting Examples from Peter Laurinec](https://petolau.github.io/)
 * [Example: Time Series with GAM](https://petolau.github.io/Analyzing-double-seasonal-time-series-with-GAM-in-R/)
+
 
 
 ### Resampling Methods for Time Series
@@ -215,11 +221,18 @@ Best taken after after the modules on Generalized Linear Models. I found Dr. Rob
 
 ### Time Series Anomaly Detection
 
-I selected the most useful to me from this [exhaustive list](https://github.com/yzhao062/anomaly-detection-resources)   
+Just follow this amazing group, [**Event and Pattern Detection Laboratory - Carnegie Mellon University**](https://epdlab.heinz.cmu.edu/) and this NYU Professor, [Daniel B. Neill](https://cs.nyu.edu/~neill/selected_pubs_by_topic.html), [(his other link)](https://www.cs.cmu.edu/~neill/papers/)
+
+
+
+See below a selection of the most relevant links to me from this [exhaustive list](https://github.com/yzhao062/anomaly-detection-resources)   
 
 * [Outlier Analysis](https://www.springer.com/us/book/9781461463955) - Aggarwal, Charu C.
 * [Outlier Ensembles: An Introduction](https://www.springer.com/us/book/9783319547640) - Aggarwal, Charu C., Sathe, Saket
 * [Anomaly Detection: A Tutorial](webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf)
+* [Tutorial: Novel Machine Learning Methods for Public Health and Disease Surveillance](https://www.cs.cmu.edu/~neill/papers/biothreats2018.pdf)
+* [Tutorial: Efficient Discovery ofHeterogeneous Treatment Effects via Anomalous Pattern Detection](https://www.cs.cmu.edu/~neill/papers/TESS2018.pdf)
+* [Blog: Anomaly.io](https://anomaly.io/blog/)
 
 
 
@@ -235,7 +248,16 @@ I selected the most useful to me from this [exhaustive list](https://github.com/
 | [banpei](https://github.com/tsurubee/banpei)| Python | Outlier detection (Hotelling's theory) and Change point detection (Singular spectrum transformation) for time-series. | MIT
 | [CAD](https://github.com/smirmik/CAD) | Python | Contextual Anomaly Detection for real-time AD on streaming data (winner algorithm of the 2016 NAB competition). | AGPL
 
+****************
 
+### Time Series Changepoint Models
+
+This content is complementary to [Time Series Anomaly Detection](#time-series-anomaly-detection). 
+
+* [Paper: Bayesian Online Changepoint Detection](https://arxiv.org/abs/0710.3742) - by Ryan Prescott Adams, David J.C. MacKay with some inspired examples like [1](https://github.com/hildensia/bayesian_changepoint_detection), [2](https://github.com/chenhaotian/Changepoints) and [3](http://nowave.it/pages/bayesian-changepoint-detection-with-r-and-stan.html)
+* [Paper: A Survey of Methods for Time Series Change Point Detection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5464762/) - Samaneh Aminikhanghahi and Diane J. Cook
+* [Example: Detection of Changes in Signals](http://sia.webpopix.org/changePoints.html)
+* [Paper: Detecting Correlation Changes in Multivariate Time Series: A comparison of four non-parametric change point detection methods](https://link.springer.com/article/10.3758/s13428-016-0754-9) - Jedelyn Cabrieto
 
 ********************
 
@@ -347,8 +369,7 @@ Dive into these as much as you can - they are the best materials on Introduction
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) -  David Easley and Jon Kleinberg
 * [Statistical Analysis of Network Data with R](https://link.springer.com/book/10.1007%2F978-1-4939-0983-4) - Eric D. KolaczykGábor Csárdi
 * [Bayesian Networks: With Examples in R](https://www.crcpress.com/Bayesian-Networks-With-Examples-in-R/Scutari-Denis/p/book/9781482225587) - Marco Scutari, Jean-Baptiste Denis
-* [Data Science and Complex Networks
-Real Case Studies with Python](https://global.oup.com/academic/product/data-science-and-complex-networks-9780199639601?cc=us&lang=en&) - Guido Caldarelli and Alessandro Chessa
+* [Data Science and Complex Networks: Real Case Studies with Python](https://global.oup.com/academic/product/data-science-and-complex-networks-9780199639601?cc=us&lang=en&) - Guido Caldarelli and Alessandro Chessa
 * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)  
 * [Example: Exponential Random Graph Modelling](http://rstudio-pubs-static.s3.amazonaws.com/329810_72b09e66276044949bc3bdc2cfcd6161.html)
 
@@ -400,7 +421,7 @@ Spontaneous and somewhat hobby-like reading on:
 * [Introduction to Survival Analysis](https://lifelines.readthedocs.io/en/latest/Survival%20Analysis%20intro.html)   
 
 
-I have also been trying to learn how to model survival data with Deep Learning algorithms by reading some of the papers from the link below whenever I can. 
+I have also been trying to learn how to model survival data with Deep Learning algorithms by reading some of the papers from the link below. 
 
 * [Survial Analysis using Deep Learning](https://github.com/robi56/Survival-Analysis-using-Deep-Learning/blob/master/README.md)
 
@@ -430,7 +451,7 @@ soon...
 
 *************************
 
-# Society of Actuaries Exams
+# People and Programs
 
 soon...
 

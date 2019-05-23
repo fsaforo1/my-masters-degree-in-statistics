@@ -25,6 +25,8 @@ A curated list of resources for my custom-designed Master's degree in Statistics
     * [Statistical Computing](#statistical-computing)
     * [Regression Analysis](#regression-analysis)
     * [Time Series Analysis](#time-series-analysis)
+        * [Resampling Methods for Time Series](#resampling-methods-for-time-series) 
+        * [Time Series Anomaly Detection](#time-series-anomaly-detection)    
     * [Design of Experiments](#design-of-experiments)
     * [Categorical Data Analysis](#categorical-data-analysis)
 * [Advanced Applied](#advanced-applied)
@@ -191,13 +193,48 @@ This stand-alone class on regression is one of the best classes I took at LSU. T
 
 ## Time Series Analysis  
 
-I found Dr. Robert Nau's notes on Time Series Analysis particularly useful. Dr Shalizi does an equally good job but relatively introductory. 
+Best taken after after the modules on Generalized Linear Models. I found Dr. Robert Nau's notes on Time Series Analysis particularly useful. Dr Shalizi does an equally good job but relatively introductory. 
 
 * [Statistical Forecasting: Regression and Time Series](http://people.duke.edu/~rnau/411home.htm) - Robert Nau (Duke University)
 * [Data over Space and Time](http://www.stat.cmu.edu/~cshalizi/dst/18/) - Cosma Shalizi(Carnegie Mellon University)
-* [Forecasting: Principles and Practice](https://otexts.com/fpp2/) - R. J. Hyndman and G. Athanasopoulos
+* [Forecasting: Principles and Practice](https://otexts.com/fpp2/) - by [R. J. Hyndman](https://github.com/robjhyndman) and G. Athanasopoulos
 * [Time Series Analysis](https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/) - Standford University
+* [Time Series Analysis - GitHub R Codes Repo](https://github.com/nickpoison/tsa4)
+* [Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/)
+* [Interesting Examples from Peter Laurinec](https://petolau.github.io/)
 * [Example: Time Series with GAM](https://petolau.github.io/Analyzing-double-seasonal-time-series-with-GAM-in-R/)
+
+
+### Resampling Methods for Time Series
+
+* [Paper: Resampling strategies for imbalanced time series forecasting](https://link.springer.com/article/10.1007/s41060-017-0044-3) -  Moniz et al. 2017.
+* [Paper: The Impact of Bootstrap on Time Series Data](www.math.ucsd.edu/~politis/StatSci03.pdf)
+* [Example: Time Series Cross Validation](https://rpubs.com/crossxwill/time-series-cv)
+* [Example: Time Series Cross Validation](https://robjhyndman.com/hyndsight/tscv/)
+
+
+### Time Series Anomaly Detection
+
+I selected the most useful to me from this [exhaustive list](https://github.com/yzhao062/anomaly-detection-resources)   
+
+* [Outlier Analysis](https://www.springer.com/us/book/9781461463955) - Aggarwal, Charu C.
+* [Outlier Ensembles: An Introduction](https://www.springer.com/us/book/9783319547640) - Aggarwal, Charu C., Sathe, Saket
+* [Tutorial: ](webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf)
+
+
+
+### Some Anomaly Detection Software
+
+
+| Name          | Language       | Pitch     | License
+| ------------- |:-------------: | :-------------: |  :-------------:     
+| Twitter's [AnomalyDetection](https://github.com/twitter/AnomalyDetection)| R      |AnomalyDetection is an open-source R package to detect anomalies which is robust, from a statistical standpoint, in the presence of seasonality and an underlying trend.   | GPL
+| Linkedin's [luminol](https://github.com/linkedin/luminol)                | Python |Luminol is a light weight python library for time series data analysis. The two major functionalities it supports are anomaly detection and correlation.| Apache-2.0      
+| [Donut](https://github.com/korepwx/donut)| Python | Donut is an unsupervised anomaly detection algorithm for seasonal KPIs, based on Variational Autoencoders. | -
+| NASA's [Telemanom](https://github.com/khundman/telemanom)| Python | A framework for using LSTMs to detect anomalies in multivariate time series data. Includes spacecraft anomaly data and experiments from the Mars Science Laboratory and SMAP missions.  | [custom](https://github.com/khundman/telemanom/blob/master/LICENSE.txt)
+| [banpei](https://github.com/tsurubee/banpei)| Python | Outlier detection (Hotelling's theory) and Change point detection (Singular spectrum transformation) for time-series. | MIT
+| [CAD](https://github.com/smirmik/CAD) | Python | Contextual Anomaly Detection for real-time AD on streaming data (winner algorithm of the 2016 NAB competition). | AGPL
+
 
 
 ********************
@@ -285,6 +322,8 @@ Dive into these as much as you can - they are the best materials on Introduction
 * [Data Mining](https://www.stat.cmu.edu/~cshalizi/350/) Cosma Shalizi (Carnegie Mellon University)
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 * [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI/) - Bradley Effron and Trevor Hastie
+* [MOOC: Outlier Detection Algorithms in Data Mining and Data Science](https://www.udemy.com/outlier-detection-techniques/)
+* [Blog Post: Winning Solutions - Kaggle Competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)
 
 ********************
 
@@ -292,10 +331,11 @@ Dive into these as much as you can - they are the best materials on Introduction
 
 * [Machine Learning - Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera (2010-2014)
 * [Deep Learning with Python](faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf) - Francois Chollet
-* [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)  
+* [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
 * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 * [Artificial intelligence and machine learning: Topic wise explanation](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
+* [MOOC: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python) by [Zach Mayer](https://github.com/zachmayer)
 
 *******************
 
@@ -321,6 +361,7 @@ Real Case Studies with Python](https://global.oup.com/academic/product/data-scie
 * [Advanced Topics in Statistical Modelling](http://statweb.lsu.edu/faculty/li/teach/exst7152/) - Bin Li (Louisiana State University)
 * [Chaos, Complexity, and Inference](https://www.stat.cmu.edu/~cshalizi/462/) - Cosma Shalizi (Carnegie Mellon University)
 * [Statistical Methods for Analysis With Missing Data](https://www4.stat.ncsu.edu/~davidian/st790/) - Marie Davidian(NC State University)
+* [Example: Preprocessing Data with Caret](http://rismyhammer.com/ml/Pre-Processing.html)
 * [Paper: Flexible Smoothing with B-Splines and Penalties](https://projecteuclid.org/euclid.ss/1038425655) - Paul H. C. Eilers and Brian D. Marx
 * [Paper: Importance Sampled Learning Ensembles](http://statweb.stanford.edu/~jhf/ftp/isle.pdf) - Friedman and Popescu
 * [Paper: Gradient Directed Regularization](http://statweb.stanford.edu/~jhf/ftp/pathlite.pdf) - Friedman and Popescu
@@ -328,6 +369,7 @@ Real Case Studies with Python](https://global.oup.com/academic/product/data-scie
 * [Paper: Kernels and Ensembles: Perspectives on Statistical Learning](http://www.math.uwaterloo.ca/~m3zhu/papers/TAS2008.pdf) - Mu Zhu
 * [Book: Generalized Additive Models: An Introduction with R, Second Edition](https://www.crcpress.com/Generalized-Additive-Models-An-Introduction-with-R-Second-Edition/Wood/p/book/9781498728331) - Simon N. Wood
 * [Simon Wood's Website](https://people.maths.bris.ac.uk/~sw15190/)
+* [MOOC: Nonlinear Models with GAM](https://www.datacamp.com/courses/nonlinear-modeling-in-r-with-gams)
 * [Example: An introduction to Generalized Additive Models with R](https://github.com/gavinsimpson/gams-yorku-canada-150)
 * [Example: Generalised Additive Mixed Models](https://github.com/stefanocoretta/gamm-workshop/blob/master/gamm-presentation.pdf)
 * [Paper: Convex Regression With Interpretable Sharp Partitions](http://jmlr.org/papers/v17/15-344.html) - Ashley Petersen, Noah Simon, Daniela Witten

@@ -91,7 +91,7 @@ Personally, this is the most exciting field in applied math that I have encounte
 
 ## Probability and Statistics
 
-Well, this section is self-explanatory. I will recommend you thoroughly understand the following concepts: Transformations, Independency and Copulas, Convergence, Sufficiency, Parameter Estimation and Inference, and the Exponential Family of Distributions. Dr. Luis Escobar of LSU has amazing lecture notes on these topics.
+Well, this section is self explanatory. I will recommend you thoroughly understand the following concepts: Transformations, Independency and Copulas, Convergence, Sufficiency, Parameter Estimation and Inference, and the Exponential Family of Distributions. Dr. Luis Escobar of LSU has amazing lecture notes on these topics.
 
 * [Statistical Inference](https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126) - Casella and Berger
 * [Stat 414/415](https://newonlinecourses.science.psu.edu/stat414/) - Penn State

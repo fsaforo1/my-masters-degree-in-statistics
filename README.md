@@ -231,7 +231,7 @@ See below a selection of the most relevant links to me from this [exhaustive lis
 * [Outlier Ensembles: An Introduction](https://www.springer.com/us/book/9783319547640) - Aggarwal, Charu C., Sathe, Saket
 * [Anomaly Detection: A Tutorial](webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf)
 * [Tutorial: Novel Machine Learning Methods for Public Health and Disease Surveillance](https://www.cs.cmu.edu/~neill/papers/biothreats2018.pdf)
-* [Tutorial: Efficient Discovery ofHeterogeneous Treatment Effects via Anomalous Pattern Detection](https://www.cs.cmu.edu/~neill/papers/TESS2018.pdf)
+* [Tutorial: Efficient Discovery of Heterogeneous Treatment Effects via Anomalous Pattern Detection](https://www.cs.cmu.edu/~neill/papers/TESS2018.pdf)
 * [Blog: Anomaly.io](https://anomaly.io/blog/)
 
 
@@ -248,7 +248,7 @@ See below a selection of the most relevant links to me from this [exhaustive lis
 | [banpei](https://github.com/tsurubee/banpei)| Python | Outlier detection (Hotelling's theory) and Change point detection (Singular spectrum transformation) for time-series. | MIT
 | [CAD](https://github.com/smirmik/CAD) | Python | Contextual Anomaly Detection for real-time AD on streaming data (winner algorithm of the 2016 NAB competition). | AGPL
 
-****************
+
 
 ### Time Series Changepoint Models
 

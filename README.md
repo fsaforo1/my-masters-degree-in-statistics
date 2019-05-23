@@ -219,7 +219,7 @@ I selected the most useful to me from this [exhaustive list](https://github.com/
 
 * [Outlier Analysis](https://www.springer.com/us/book/9781461463955) - Aggarwal, Charu C.
 * [Outlier Ensembles: An Introduction](https://www.springer.com/us/book/9783319547640) - Aggarwal, Charu C., Sathe, Saket
-* [Tutorial: ](webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf)
+* [Anomaly Detection: A Tutorial](webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf)
 
 
 

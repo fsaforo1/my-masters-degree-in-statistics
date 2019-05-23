@@ -400,7 +400,7 @@ Spontaneous and somewhat hobby-like reading on:
 * [Introduction to Survival Analysis](https://lifelines.readthedocs.io/en/latest/Survival%20Analysis%20intro.html)   
 
 
-I have also been trying to learn how to model survival data with Deep Learning algorithms by reading some of the papers (see link below) whenever I can. 
+I have also been trying to learn how to model survival data with Deep Learning algorithms by reading some of the papers from the link below whenever I can. 
 
 * [Survial Analysis using Deep Learning](https://github.com/robi56/Survival-Analysis-using-Deep-Learning/blob/master/README.md)
 

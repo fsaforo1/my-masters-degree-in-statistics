@@ -272,7 +272,7 @@ Although not necessary, I recommend you take this class simultaneously with an i
 * [Desgin of Experiments](http://statweb.stanford.edu/~owen/courses/363/) - Stanford University 
 * [Design and Analysis of Experiments - GitHub Repo](https://github.com/fcampelo/Design-and-Analysis-of-Experiments)
 * [Elements of Causal Inference: Foundations and Learning Algorithms ](https://mitpress.mit.edu/books/elements-causal-inference) - Peters et al.
-* [Online Experiments for Computational Social Science](https://eytan.github.io/www-15-tutorial/) - Eytan Bakshy and Sean J. Taylor 
+* [Tutorial: Online Experiments for Computational Social Science](https://eytan.github.io/www-15-tutorial/) - Eytan Bakshy and Sean J. Taylor 
 * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)
 * [Paper: Social Influence in Social Advertising: Evidence from Field Experiments](https://arxiv.org/pdf/1206.4327.pdf) - Eytan et al. 2012.
 

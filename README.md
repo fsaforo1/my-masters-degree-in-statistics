@@ -23,13 +23,15 @@ A curated list of resources for my custom-designed Master's degree in Statistics
 * [Applied](#applied)
     * [Statistical Methods](#statistical-methods)
     * [Statistical Computing](#statistical-computing)
+    * [Generalized Linear Models](#generlaized-linear-models)
+        * [Regression Analysis](#regression-analysis)
+        * [Categorical Data Analysis](#categorical-data-analysis)
     * [Regression Analysis](#regression-analysis)
     * [Time Series Analysis](#time-series-analysis)
         * [Resampling Methods for Time Series](#resampling-methods-for-time-series) 
         * [Time Series Anomaly Detection](#time-series-anomaly-detection)
         * [Time Series Changepoint Models](#time-series-changepoint-models)
     * [Design of Experiments](#design-of-experiments)
-    * [Categorical Data Analysis](#categorical-data-analysis)
 * [Advanced Applied](#advanced-applied)
     * [Computational Linear Algebra](#computational-linear-algebra)
     * [Bayesian Analysis](#bayesian-analysis)
@@ -183,15 +185,33 @@ Some of these are more 'pseudo' than actual statistical computing, but very usef
 
 ********************
 
-## Regression Analysis 
+## Generalized Linear Models
+
+### Regression Analysis 
 
 This stand-alone class on regression is one of the best classes I took at LSU. The professor,  Dr. Brian Marx, effortlessly walks you through the rationale behind the nitty-gritties of regression and generalized modelling in general. You do not want to miss his classes. Alan Agresti's book below is invaluable!  
 
 
 * [Regression: Models, Methods and Applications](https://www.springer.com/us/book/9783642343322) - B.D. Marx et al.
 * [Introduction to Linear Regression Analysis 5th Edition](https://www.amazon.com/Introduction-Regression-Analysis-Douglas-Montgomery/dp/0470542810) - Montgomery et al.
-* [The Truth About Linear Regression](www.stat.cmu.edu/~cshalizi/TALR/TALR.pdf) - Cosma Shalizi (Carnegie Mellon University)
+* [The Truth About Linear Regression](http://www.stat.cmu.edu/~cshalizi/TALR/TALR.pdf) - Cosma Shalizi (Carnegie Mellon University)
 * [Foundations of Linear and Generalized Linear Models](https://www.oreilly.com/library/view/foundations-of-linear/9781118730058/) - Alan Agresti (University of Florida)
+
+
+
+********************
+
+### Categorical Data Analysis
+
+Again Dr. Brian D. Marx does a masterful job at teaching this class. This class introduces the concepts of Generalized Linear Modelling, with the latter half of the class focusing mainly on the analysis of categorical/discrete data. 
+
+* [Categorical Data Analysis](https://www.wiley.com/en-us/An+Introduction+to+Categorical+Data+Analysis%2C+3rd+Edition-p-9781119405269) - Alan Agresti (University of Florida)
+* [Resources for Alan Agresti's Books](http://users.stat.ufl.edu/~aa/cda/cda.html)
+* [Analysis of Categorical Data with R](http://www.chrisbilder.com/categorical/index.html) - Christopher R. Bilder (University of Nebraska-Lincoln)
+* [Analysis of Discrete Data](https://newonlinecourses.science.psu.edu/stat504/node/4/) - Penn State
+* [Generalized Linear Models](http://www.markirwin.net/stat149/) - Mark Irwin (Harvard University)
+* [Some Projects](https://github.com/topics/categorical-data)
+
 
 ********************
 
@@ -275,20 +295,6 @@ Although not necessary, I recommend you take this class simultaneously with an i
 * [Tutorial: Online Experiments for Computational Social Science](https://eytan.github.io/www-15-tutorial/) - Eytan Bakshy and Sean J. Taylor 
 * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)
 * [Paper: Social Influence in Social Advertising: Evidence from Field Experiments](https://arxiv.org/pdf/1206.4327.pdf) - Eytan et al. 2012.
-
-
-********************
-
-## Categorical Data Analysis
-
-Again Dr. Brian D. Marx does a masterful job at teaching this class. This class introduces the concepts of Generalized Linear Modelling, with the latter half of the class focusing mainly on the analysis of categorical/discrete data. 
-
-* [Categorical Data Analysis](https://www.wiley.com/en-us/An+Introduction+to+Categorical+Data+Analysis%2C+3rd+Edition-p-9781119405269) - Alan Agresti (University of Florida)
-* [Resources for Alan Agresti's Books](http://users.stat.ufl.edu/~aa/cda/cda.html)
-* [Analysis of Categorical Data with R](http://www.chrisbilder.com/categorical/index.html) - Christopher R. Bilder (University of Nebraska-Lincoln)
-* [Analysis of Discrete Data](https://newonlinecourses.science.psu.edu/stat504/node/4/) - Penn State
-* [Generalized Linear Models](http://www.markirwin.net/stat149/) - Mark Irwin (Harvard University)
-* [Some Projects](https://github.com/topics/categorical-data)
 
 
 *****************

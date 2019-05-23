@@ -229,7 +229,7 @@ See below a selection of the most relevant links to me from this [exhaustive lis
 
 * [Outlier Analysis](https://www.springer.com/us/book/9781461463955) - Aggarwal, Charu C.
 * [Outlier Ensembles: An Introduction](https://www.springer.com/us/book/9783319547640) - Aggarwal, Charu C., Sathe, Saket
-* [Anomaly Detection: A Tutorial](webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf)
+* [Anomaly Detection: A Tutorial](http://webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf)
 * [Tutorial: Novel Machine Learning Methods for Public Health and Disease Surveillance](https://www.cs.cmu.edu/~neill/papers/biothreats2018.pdf)
 * [Tutorial: Efficient Discovery of Heterogeneous Treatment Effects via Anomalous Pattern Detection](https://www.cs.cmu.edu/~neill/papers/TESS2018.pdf)
 * [Blog: Anomaly.io](https://anomaly.io/blog/)

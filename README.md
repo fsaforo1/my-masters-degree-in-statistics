@@ -26,7 +26,6 @@ A curated list of resources for my custom-designed Master's degree in Statistics
     * [Generalized Linear Models](#generlaized-linear-models)
         * [Regression Analysis](#regression-analysis)
         * [Categorical Data Analysis](#categorical-data-analysis)
-    * [Regression Analysis](#regression-analysis)
     * [Time Series Analysis](#time-series-analysis)
         * [Resampling Methods for Time Series](#resampling-methods-for-time-series) 
         * [Time Series Anomaly Detection](#time-series-anomaly-detection)

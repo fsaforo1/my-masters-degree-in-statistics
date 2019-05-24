@@ -198,6 +198,7 @@ This was mostly a slightly refined version of undergrad statistical methods with
 
 Some of these are more 'pseudo' than actual statistical computing, but very useful content all the same. 
 
+* [Numerical Recipes: The Art of Scientific Computing](https://amzn.to/2WqsWGH) - and [codes site](http://numerical.recipes/routines/instbyfile.html) -William H. Press
 * [Statistical Computing Methods](http://www.markirwin.net/stat221/) - Mark Irwin (Harvard University)
 * [Statistical Computing](http://www.stat.cmu.edu/~ryantibs/statcomp/) - Ryan Tibshirani (Carnegie Mellon University)  
 * [Statistical Computing](https://www.stat.cmu.edu/~cshalizi/statcomp/14/) - Cosma Shalizi (Carnegie Mellon University)     

@@ -217,6 +217,7 @@ This stand-alone class on regression is one of the best classes I took at LSU. T
 * [Introduction to Linear Regression Analysis 5th Edition](https://www.amazon.com/Introduction-Regression-Analysis-Douglas-Montgomery/dp/0470542810) - Montgomery et al.
 * [The Truth About Linear Regression](http://www.stat.cmu.edu/~cshalizi/TALR/TALR.pdf) - Cosma Shalizi (Carnegie Mellon University)
 * [Foundations of Linear and Generalized Linear Models](https://www.oreilly.com/library/view/foundations-of-linear/9781118730058/) - Alan Agresti (University of Florida)
+* [Example: https://cran.r-project.org/web/packages/BradleyTerryScalable/vignettes/BradleyTerryScalable.html](https://cran.r-project.org/web/packages/BradleyTerryScalable/vignettes/BradleyTerryScalable.html)
 
 [**return to contents**](#contents)
 

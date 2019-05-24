@@ -199,7 +199,8 @@ Some of these are more 'pseudo' than actual statistical computing, but very usef
 
 * [Statistical Computing Methods](http://www.markirwin.net/stat221/) - Mark Irwin (Harvard University)
 * [Statistical Computing](http://www.stat.cmu.edu/~ryantibs/statcomp/) - Ryan Tibshirani (Carnegie Mellon University)  
-* [Statistical Computing](https://www.stat.cmu.edu/~cshalizi/statcomp/14/) - Cosma Shalizi (Carnegie Mellon University)  
+* [Statistical Computing](https://www.stat.cmu.edu/~cshalizi/statcomp/14/) - Cosma Shalizi (Carnegie Mellon University)     
+
 [**return to contents**](#contents)
 
 
@@ -488,7 +489,9 @@ I have also been trying to learn how to model survival data with Deep Learning a
 
 ## Databases 
 * [Database Systems - Carnegie Mellon University](https://15445.courses.cs.cmu.edu/fall2018/)
-* [Introduction to Databases - Stanford Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/)
+* [Introduction to Databases - Stanford Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/)    
+
+[**return to contents**](#contents)
 
 *************************
 *************************

@@ -261,6 +261,8 @@ Best taken after after the modules on Generalized Linear Models. I found Dr. Rob
 * [Example: Time Series Cross Validation](https://robjhyndman.com/hyndsight/tscv/)
 
 
+[**return to contents**](#contents)
+
 ### Time Series Anomaly Detection
 
 Just follow this amazing group, [**Event and Pattern Detection Laboratory - Carnegie Mellon University**](https://epdlab.heinz.cmu.edu/) and this NYU Professor, [Daniel B. Neill](https://cs.nyu.edu/~neill/selected_pubs_by_topic.html), [(his other link)](https://www.cs.cmu.edu/~neill/papers/)
@@ -452,6 +454,8 @@ Dive into these as much as you can - they are the best materials on Introduction
 * [Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/winter17-cs228/index.html) - Stefano Ermon (Stanford University)
 * [Probabilistic Graphical ModelsProbabilistic Graphical Models](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html) - Eric Xing (Carnegie Mellon University)
 
+[**return to contents**](#contents)
+
 **********************
 
 ## Longitudinal Data Analysis
@@ -461,6 +465,7 @@ I took this class simultaneously with Dr. Kevin S. McCarter's Multivariate Analy
 * [Longitudinal Data Analysis](https://www4.stat.ncsu.edu/~davidian/st732/) - Marie Davidian(NC State University)
 * [Applied Multivariate and Longitudinal Data Analysis](https://www.stat.ncsu.edu/people/staicu/courses/st495-590/index.html)
 
+[**return to contents**](#contents)
 
 *************************
 

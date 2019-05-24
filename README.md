@@ -66,7 +66,10 @@ Probably one of the top 3 most relevant areas of study for statisticians. You co
 * [MIT OpenCourseWare Lectures on Linear Algebra as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
 * [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - Ray M Bowen, C. C. Wang
-* [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, C. C. Wang
+* [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, C. C. Wang    
+
+
+[**return to contents**](#contents)
 
 ********************
 
@@ -80,6 +83,9 @@ I HATED this subject as an undergrad - I don't recall why though :) Now, I can b
 * [Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) - J. M. McDonough (University of Kentucky)
 * [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/) - Douglas Wilhelm Harder  
 
+
+[**return to contents**](#contents)
+
 ********************
 
 ## Partial Differential Equations
@@ -88,8 +94,10 @@ Personally, this is the most exciting field in applied math that I have encounte
 
 * [Notes on Partial Differential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pde_notes.pdf) - John K. Hunter (University of California at Davis)
 * [Computational Numerical PDEs](https://github.com/mandli/numerical-methods-pdes) - Kyle Mandli (Columbia University)   
-* [COOL Applications](https://math.berkeley.edu/~sethian/2006/Applications/Menu_Expanded_Applications.html) - by Jamie Sethian (UC - Berkeley)
+* [COOL Applications](https://math.berkeley.edu/~sethian/2006/Applications/Menu_Expanded_Applications.html) - by Jamie Sethian (UC - Berkeley)   
 
+
+[**return to contents**](#contents)
 
 ********************
 
@@ -102,8 +110,10 @@ Well, this section is self explanatory. I will recommend you thoroughly understa
 * [Introduction to Probability](http://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - Dimitri P. Bertsekas, John N. Tsitsiklis (MIT)
 * [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese (University of Queensland)
 * [Probability: Theory and Examples](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf) - Rick Durrett (Duke University)
-* [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley)
+* [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley)  
 
+
+[**return to contents**](#contents)
 
 ********************
 ********************
@@ -125,8 +135,10 @@ Here are the bitter pills that you just have to swallow :)
 * [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
 * [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
 * [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (Indiana University)
-* [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
+* [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon  
 
+
+[**return to contents**](#contents)
 
 ********************
 
@@ -136,7 +148,9 @@ Here are the bitter pills that you just have to swallow :)
 * [Lecture Notes in Measure Theory](http://www.math.chalmers.se/~borell/MeasureTheory.pdf) - Christer Borell
 * [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng
 * [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) - John K. Hunter (University of California at Davis)
-* [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon (ETH Zürich)
+* [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon (ETH Zürich)  
+
+[**return to contents**](#contents)
 
 ********************
 
@@ -154,7 +168,10 @@ Here are the bitter pills that you just have to swallow :)
 This subject is a MUST.
 
 * [Convex Optimization](https://see.stanford.edu/Course/EE364A) - Stephen P. Boyd (Stanford University)  
-* [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) - Ryan Tibshirani (Carnegie Mellon University)
+* [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) - Ryan Tibshirani (Carnegie Mellon University)  
+
+
+[**return to contents**](#contents)
 
 ********************
 ********************
@@ -172,6 +189,7 @@ This was mostly a slightly refined version of undergrad statistical methods with
 * [TA Resource: Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/) - David Dalpiaz (University of Illinois - Urbana Champaign)
 * [GREAT TA Resource: Statistics in Action with R](http://sia.webpopix.org/)
 
+[**return to contents**](#contents)  
 
 ********************
 
@@ -182,6 +200,8 @@ Some of these are more 'pseudo' than actual statistical computing, but very usef
 * [Statistical Computing Methods](http://www.markirwin.net/stat221/) - Mark Irwin (Harvard University)
 * [Statistical Computing](http://www.stat.cmu.edu/~ryantibs/statcomp/) - Ryan Tibshirani (Carnegie Mellon University)  
 * [Statistical Computing](https://www.stat.cmu.edu/~cshalizi/statcomp/14/) - Cosma Shalizi (Carnegie Mellon University)  
+[**return to contents**](#contents)
+
 
 ********************
 
@@ -197,7 +217,7 @@ This stand-alone class on regression is one of the best classes I took at LSU. T
 * [The Truth About Linear Regression](http://www.stat.cmu.edu/~cshalizi/TALR/TALR.pdf) - Cosma Shalizi (Carnegie Mellon University)
 * [Foundations of Linear and Generalized Linear Models](https://www.oreilly.com/library/view/foundations-of-linear/9781118730058/) - Alan Agresti (University of Florida)
 
-
+[**return to contents**](#contents)
 
 ********************
 
@@ -212,6 +232,7 @@ Again Dr. Brian D. Marx does a masterful job at teaching this class. This class 
 * [Generalized Linear Models](http://www.markirwin.net/stat149/) - Mark Irwin (Harvard University)
 * [Some Projects](https://github.com/topics/categorical-data)
 
+[**return to contents**](#contents)
 
 ********************
 
@@ -230,6 +251,7 @@ Best taken after after the modules on Generalized Linear Models. I found Dr. Rob
 * [Example: Time Series with GAM](https://petolau.github.io/Analyzing-double-seasonal-time-series-with-GAM-in-R/)
 
 
+[**return to contents**](#contents)
 
 ### Resampling Methods for Time Series
 
@@ -255,6 +277,8 @@ See below a selection of the most relevant links to me from this [exhaustive lis
 * [Blog: Anomaly.io](https://anomaly.io/blog/)
 
 
+[**return to contents**](#contents)
+
 
 ### Some Anomaly Detection Software
 
@@ -268,7 +292,7 @@ See below a selection of the most relevant links to me from this [exhaustive lis
 | [banpei](https://github.com/tsurubee/banpei)| Python | Outlier detection (Hotelling's theory) and Change point detection (Singular spectrum transformation) for time-series. | MIT
 | [CAD](https://github.com/smirmik/CAD) | Python | Contextual Anomaly Detection for real-time AD on streaming data (winner algorithm of the 2016 NAB competition). | AGPL
 
-
+[**return to contents**](#contents)
 
 ### Time Series Changepoint Models
 
@@ -278,6 +302,8 @@ This content is complementary to [Time Series Anomaly Detection](#time-series-an
 * [Paper: A Survey of Methods for Time Series Change Point Detection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5464762/) - Samaneh Aminikhanghahi and Diane J. Cook
 * [Example: Detection of Changes in Signals](http://sia.webpopix.org/changePoints.html)
 * [Paper: Detecting Correlation Changes in Multivariate Time Series: A comparison of four non-parametric change point detection methods](https://link.springer.com/article/10.3758/s13428-016-0754-9) - Jedelyn Cabrieto
+
+[**return to contents**](#contents)
 
 ********************
 
@@ -296,6 +322,7 @@ Although not necessary, I recommend you take this class simultaneously with an i
 * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)
 * [Paper: Social Influence in Social Advertising: Evidence from Field Experiments](https://arxiv.org/pdf/1206.4327.pdf) - Eytan et al. 2012.
 
+[**return to contents**](#contents)
 
 *****************
 ******************
@@ -308,7 +335,9 @@ Although not necessary, I recommend you take this class simultaneously with an i
 Basically numerical methods to linear algebra
 
 * [Computational Linear Algebra with Python](https://github.com/fastai/numerical-linear-algebra)
-* [Computational Linear Algebra Videos](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) - Rachel Thomas
+* [Computational Linear Algebra Videos](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) - Rachel Thomas  
+
+[**return to contents**](#contents)
 
 ******************
 
@@ -328,7 +357,9 @@ I struggled in this class partly because I had a terrible load of 18 credits tha
 * [Bayesian Modelling with Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 * [Probabilistic Programming and Bayesian Methods for Hackers - Website](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cameron Davidson-Pilon
 * [Bayesian Modeling and Inference](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/) - Michael Jordan(UC - Berkeley)
-* [Learning Bayes](http://florianhartig.github.io/LearningBayes/)
+* [Learning Bayes](http://florianhartig.github.io/LearningBayes/)  
+
+[**return to contents**](#contents)
 
 *************************
 
@@ -339,6 +370,7 @@ I struggled in this class partly because I had a terrible load of 18 credits tha
 * [Applied Multivariate Analysis](https://onlinecourses.science.psu.edu/stat505/) - Penn State
 * [Nonlinear Models for Univariate and Multivariate Response](https://www.stat.ncsu.edu/people/davidian/courses/st762_fall2009//) - Marie Davidian (NC State University)
 
+[**return to contents**](#contents)
 
 ************************* 
 
@@ -355,7 +387,9 @@ Dive into these as much as you can - they are the best materials on Introduction
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 * [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI/) - Bradley Effron and Trevor Hastie
 * [MOOC: Outlier Detection Algorithms in Data Mining and Data Science](https://www.udemy.com/outlier-detection-techniques/)
-* [Blog Post: Winning Solutions - Kaggle Competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)
+* [Blog Post: Winning Solutions - Kaggle Competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)  
+
+[**return to contents**](#contents)
 
 ********************
 
@@ -367,7 +401,9 @@ Dive into these as much as you can - they are the best materials on Introduction
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
 * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 * [Artificial intelligence and machine learning: Topic wise explanation](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
-* [MOOC: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python) by [Zach Mayer](https://github.com/zachmayer)
+* [MOOC: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python) by [Zach Mayer](https://github.com/zachmayer)   
+
+[**return to contents**](#contents)
 
 *******************
 
@@ -383,7 +419,7 @@ Dive into these as much as you can - they are the best materials on Introduction
 * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)  
 * [Example: Exponential Random Graph Modelling](http://rstudio-pubs-static.s3.amazonaws.com/329810_72b09e66276044949bc3bdc2cfcd6161.html)
 
-
+[**return to contents**](#contents)
 
 *******************
 
@@ -404,7 +440,10 @@ Dive into these as much as you can - they are the best materials on Introduction
 * [MOOC: Nonlinear Models with GAM](https://www.datacamp.com/courses/nonlinear-modeling-in-r-with-gams)
 * [Example: An introduction to Generalized Additive Models with R](https://github.com/gavinsimpson/gams-yorku-canada-150)
 * [Example: Generalised Additive Mixed Models](https://github.com/stefanocoretta/gamm-workshop/blob/master/gamm-presentation.pdf)
-* [Paper: Convex Regression With Interpretable Sharp Partitions](http://jmlr.org/papers/v17/15-344.html) - Ashley Petersen, Noah Simon, Daniela Witten
+* [Paper: Convex Regression With Interpretable Sharp Partitions](http://jmlr.org/papers/v17/15-344.html) - Ashley Petersen, Noah Simon, Daniela Witten  
+
+
+[**return to contents**](#contents)
 
 *************************
 
@@ -435,6 +474,10 @@ Spontaneous and somewhat hobby-like reading on:
 I have also been trying to learn how to model survival data with Deep Learning algorithms by reading some of the papers from the link below. 
 
 * [Survial Analysis using Deep Learning](https://github.com/robi56/Survival-Analysis-using-Deep-Learning/blob/master/README.md)
+
+
+[**return to contents**](#contents)
+
 
 *************************
 

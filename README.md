@@ -314,7 +314,7 @@ Basically numerical methods to linear algebra
 
 ## Bayesian Analysis
 
-I struggled in this class partly because I had a terrible load of 18 credits that semester - which is A LOT for graduate shool. I spent the subsequent semester vacation reviewing the material and I found it surprisingly easy. I found reading materials from other schools and practicing the coding very useful. 
+I struggled in this class partly because I had a terrible load of 18 credits that semester - which is A LOT for graduate shool. I spent the subsequent semester vacation reviewing the material and I found it surprisingly coherent. I found reading materials from other schools and practicing the coding very useful. 
 
 * [Bayesian Methods and Modern Statistics - Course GitHUb Repo](https://github.com/resteorts/modern-bayes) - Rebecca Steorts (Duke University) 
 * [Bayesian Methods and Modern Statistics - Course Website](http://www2.stat.duke.edu/~rcs46/bayes18.html) - Rebecca Steorts (Duke University)

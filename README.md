@@ -157,6 +157,7 @@ Here are the bitter pills that you just have to swallow :)
 ### Stochastic Processes 
 
 * [Stochastic Processes (Advanced Probability II)](https://www.stat.cmu.edu/~cshalizi/754/) - Cosma Shalizi (Carnegie Mellon University)  
+* [Modelling with Stochastic Processes](https://www.stat.ubc.ca/~bouchard/courses/stat547-sp2013-14/index.html) - Alexandre Bouchard-Côté (University of Bristish Columbia)
 * [Stochastic Models and Simulation](https://wolfweb.unr.edu/~drschmidt/Stat753/) - Deena Schmidt(University of Nevada, Reno)
 
 

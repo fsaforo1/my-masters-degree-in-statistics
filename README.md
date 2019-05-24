@@ -321,6 +321,9 @@ I struggled in this class partly because I had a terrible load of 18 credits tha
 * [Applied Bayesian Analysis](https://www4.stat.ncsu.edu/~reich/ABA/index.html) - Brian Reich (North Carolina State University)
 * [Bayesian Inference](https://www4.stat.ncsu.edu/~reich/ST740/) - Brian Reich (North Carolina State University)
 * [Think Bayes](http://greenteapress.com/wp/think-bayes/) - Allen B. Downey
+* [Book: A First Course in Bayesian Statistical Methods](https://www.springer.com/us/book/9780387922997) - Peter D. Hoff
+* [Book: Bayesian Computation with R by Jim Albert](https://www.springer.com/us/book/9780387922973) and [Book's site with R Scripts, Notebooks and Blogposts](http://www-math.bgsu.edu/~albert/bcwr/)
+* [Book: Introducing Monte Carlo Methods with R](https://www.springer.com/us/book/9781441915757) - Christian Robert and George Casella
 * [Probabilistic Programming and Bayesian Methods for Hackers - GitHub Repo](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Cameron Davidson-Pilon
 * [Bayesian Modelling with Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 * [Probabilistic Programming and Bayesian Methods for Hackers - Website](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cameron Davidson-Pilon

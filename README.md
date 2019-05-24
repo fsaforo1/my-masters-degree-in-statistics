@@ -59,8 +59,9 @@ A curated list of resources for my custom-designed Master's degree in Statistics
 # Theory
 
 ## Linear Algebra
-Probably one of the top 3 most relevant areas of study for statisticians. You could get away with little knowledge in Abstract Algebra, but you really need to master Linear Algebra. Go beyond the usual algebraic matrix calculations - try to get a deep, almost philosphical view on concepts like projectivity, spectral decomposition, sparse matrices, etc.  
+Probably one of the top 3 most relevant areas of study for statisticians. You could get away with little knowledge in Abstract Algebra, but you really need to master Linear Algebra. Go beyond the usual algebraic matrix calculations - try to get a deep, almost philosphical view on concepts like projectivity, spectral decomposition, sparse matrices, etc.   
 
+* [**Video Lectures: Matrix Methods in Data Analysis, Signal Processing, and Machine Learning**](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) - by Gilbert Strang (MIT), [accompanying notes](http://math.mit.edu/~gs/linearalgebra/)
 * [Linear Algebra](https://www.cs.cornell.edu/courses/cs485/2006sp/LinAlg_Complete.pdf) - Paul Dawkins (Cornell University)
 * [MIT OpenCourseWare Lectures on Linear Algebra as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)

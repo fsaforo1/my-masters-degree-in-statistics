@@ -181,7 +181,7 @@ This subject is a MUST.
 
 ## Statistical Methods
 
-This was mostly a slightly refined version of undergrad statistical methods with little bit of design of experiments. This class, I believe, was designed for grad students with little to no background in math/stats. For folks with some stats background, I highly recommend the resources below especially Cosma Shalizi's book, which is hands down, the best introductory stats book I have ever read.   
+This was mostly a slightly refined version of undergrad statistical methods with little bit of design of experiments. This class, I believe, was designed for grad students with little to no background in math/stats. For folks with some stats background, I highly recommend the resources below especially Dr. Cosma Shalizi's book, which is hands down, the best introductory stats book I have ever read.   
 
 * [Advanced Data Analysisfrom an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Cosma Shalizi (Carnegie Mellon University)
 * [Statistical Methods: The Geometric Approach](https://www.springer.com/us/book/9780387975177?gclid=EAIaIQobChMIkP7_gPOv4gIVEpJbCh1A2gFMEAQYAiABEgIoqPD_BwE) - Alan Agresti (University of Florida)
@@ -195,6 +195,8 @@ This was mostly a slightly refined version of undergrad statistical methods with
 ********************
 
 ## Statistical Computing 
+
+This module is almost as important as Linear Algebra.  
 
 Some of these are more 'pseudo' than actual statistical computing, but very useful content all the same. 
 
@@ -326,7 +328,13 @@ Although not necessary, I recommend you take this class simultaneously with an i
 * [Elements of Causal Inference: Foundations and Learning Algorithms ](https://mitpress.mit.edu/books/elements-causal-inference) - Peters et al.
 * [Tutorial: Online Experiments for Computational Social Science](https://eytan.github.io/www-15-tutorial/) - Eytan Bakshy and Sean J. Taylor 
 * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)
-* [Paper: Social Influence in Social Advertising: Evidence from Field Experiments](https://arxiv.org/pdf/1206.4327.pdf) - Eytan et al. 2012.
+* [Paper: Social Influence in Social Advertising: Evidence from Field Experiments](https://arxiv.org/pdf/1206.4327.pdf) - Eytan et al. 2012.  
+
+
+One critique of this class is that there is little emphasis on testable problem formulation - the statistician is relegated to only churning out design solutions (that is, model specification and analysis), and not appropriate problem formulation or experimentation. The book below offers approaches to optimal experimentation for a given problem or purpose. 
+
+* [Book: Optimum Experimental Designs,](https://global.oup.com/academic/product/optimum-experimental-designs-with-sas-9780199296606?cc=us&lang=en&) with [SAS](http://global.oup.com/booksites/content/9780199296606/sas/) - Anthony Atkinson, Alexander Donev, and Randall Tobias  
+
 
 [**return to contents**](#contents)
 
@@ -390,8 +398,9 @@ Dive into these as much as you can - they are the best materials on Introduction
 * [Advanced Topics in Statistical Modelling](http://statweb.lsu.edu/faculty/li/teach/exst7152/) - Bin Li (Louisiana State University)
 * [Statistical Machine Learning](http://www.stat.cmu.edu/~ryantibs/statml/) R. Tibshirani and L. Wasserman (Carnegie Mellon University)
 * [Data Mining](https://www.stat.cmu.edu/~cshalizi/350/) Cosma Shalizi (Carnegie Mellon University)
-* [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
-* [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI/) - Bradley Effron and Trevor Hastie
+* [Book: An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+* [Book: The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani and Jerome Friedman
+* [Book: Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI/) - Bradley Effron and Trevor Hastie
 * [MOOC: Outlier Detection Algorithms in Data Mining and Data Science](https://www.udemy.com/outlier-detection-techniques/)
 * [Blog Post: Winning Solutions - Kaggle Competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)  
 

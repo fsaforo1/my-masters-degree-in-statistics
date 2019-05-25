@@ -244,7 +244,7 @@ Again Dr. Brian D. Marx does a masterful job at teaching this class. This class 
 
 ## Time Series Analysis  
 
-Best taken after after the modules on Generalized Linear Models. I found Dr. Robert Nau's notes on Time Series Analysis particularly useful. Dr Shalizi does an equally good job but relatively introductory. 
+Best taken after after the modules on Generalized Linear Models. I found Dr. Robert Nau's notes on Time Series Analysis particularly useful. Dr Shalizi does an equally good job. 
 
 * [Statistical Forecasting: Regression and Time Series](http://people.duke.edu/~rnau/411home.htm) - Robert Nau (Duke University)
 * [Data over Space and Time](http://www.stat.cmu.edu/~cshalizi/dst/18/) - Cosma Shalizi(Carnegie Mellon University)

@@ -255,6 +255,7 @@ Best taken after after the modules on Generalized Linear Models. I found Dr. Rob
 * [Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/)
 * [Interesting Examples from Peter Laurinec](https://petolau.github.io/)
 * [Example: Time Series with GAM](https://petolau.github.io/Analyzing-double-seasonal-time-series-with-GAM-in-R/)
+* [Resource: Time Series Classification News, Algorithms and Sample Codes Archive](http://www.timeseriesclassification.com/index.php) - University of California, Riverside
 
 
 [**return to contents**](#contents)

@@ -439,7 +439,10 @@ Dive into these as much as you can - they are the best materials on Introduction
 *******************
 
 
-## Advanced Statistical Modelling
+## Advanced Statistical Modelling  
+
+This module is a more advanced revisit of Generalized Linear Modelling and Statistical Machine Learning that emphasize model building skill and intuition with some statistical rigor and computation.  Empirical model selection techniques (e.g. basis degree, effective degrees of freedom) and regularization, and extensions to linear regression via basis functions and kernels are further explored. The relationship between randomness and determinism is also further probed. 
+
 
 * [Advanced Topics in Statistical Modelling](http://statweb.lsu.edu/faculty/li/teach/exst7152/) - Bin Li (Louisiana State University)
 * [Chaos, Complexity, and Inference](https://www.stat.cmu.edu/~cshalizi/462/) - Cosma Shalizi (Carnegie Mellon University)

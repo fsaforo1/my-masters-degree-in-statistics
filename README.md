@@ -181,9 +181,9 @@ This subject is a MUST.
 
 ## Statistical Methods
 
-This was mostly a slightly refined version of undergrad statistical methods with little bit of design of experiments. This class, I believe, was designed for grad students with little to no background in math/stats. For folks with some stats background, I highly recommend the resources below especially Dr. Cosma Shalizi's book, which is hands down, the best introductory stats book I have ever read.   
+This was mostly a slightly refined version of undergrad statistical methods with little bits of design of experiments. This class, I believe, was designed for grad students with little to no background in math/stats. For folks with some stats background, I highly recommend the resources below especially Dr. Cosma Shalizi's book, which is hands down, the best introductory stats book I have ever read.   
 
-* [Advanced Data Analysisfrom an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Cosma Shalizi (Carnegie Mellon University)
+* [Advanced Data Analysis from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Cosma Shalizi (Carnegie Mellon University)
 * [Statistical Methods: The Geometric Approach](https://www.springer.com/us/book/9780387975177?gclid=EAIaIQobChMIkP7_gPOv4gIVEpJbCh1A2gFMEAQYAiABEgIoqPD_BwE) - Alan Agresti (University of Florida)
 * [Applied Linear Models](https://mysite.science.uottawa.ca/rkulik/mat3378/mat3378-textbook.pdf) - Kutner et al.
 * [Design of Experiments](https://newonlinecourses.science.psu.edu/stat503/) - Penn State
@@ -317,7 +317,7 @@ This content is complementary to [Time Series Anomaly Detection](#time-series-an
 
 ## Design of Experiments
 
-Maybe the MVP in the entire masters program. With the current era of 'big data', there is uneccessarily high focus on prediction, but prediction in itself is sometimes useless without control. Randomized experiments is one way to test competing ideas or solutions, and thus control predictions or outcomes. The professor of this course, Dr. David C. Blouin is a seasoned expert in experimental design. I recommend taking this class after taking the linear modelling and or data mining classes because this class (DOE) introduces an almost artistic yet scientific paradigm to problem solving which you would not appreciate if taken prior to taking the latter classes. This class is project-heavy - roughly 2 projects every week - which helps in honing this almost artistic skill.   
+Maybe the MVP in the entire masters program. With the current era of 'big data', there is unnecessarily high focus on prediction, but prediction in itself is sometimes useless without control. Randomized experiments is one way to test competing ideas or solutions, and thus control predictions or outcomes. The professor of this course, Dr. David C. Blouin is a seasoned expert in experimental design. I recommend taking this class after taking the linear modelling and or data mining classes because this class (DoE) introduces an almost artistic yet scientific paradigm to problem solving which you would not appreciate if taken prior to taking the latter classes. This class is project-heavy - roughly 2 projects every week - which helps in honing this almost artistic skill.   
 
 
 Although not necessary, I recommend you take this class simultaneously with an introductory course in **Causal Inference**.

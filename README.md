@@ -459,7 +459,7 @@ This module is a more advanced revisit of Generalized Linear Modelling and Stati
 * [Example: An introduction to Generalized Additive Models with R](https://github.com/gavinsimpson/gams-yorku-canada-150)
 * [Example: Generalised Additive Mixed Models](https://github.com/stefanocoretta/gamm-workshop/blob/master/gamm-presentation.pdf)
 * [Paper: Convex Regression With Interpretable Sharp Partitions](http://jmlr.org/papers/v17/15-344.html) - Ashley Petersen, Noah Simon, Daniela Witten  
-* [Tutorial: Information Filtering for arXiv.org:Bandits, Exploration vs. Exploitation, and the Cold Start Problem](https://people.orie.cornell.edu/pfrazier/Presentations/2014.01.Lancaster.Arxiv.pdf) - Peter Frazier (Cornell University)
+* [Tutorial: Information Filtering for arXiv.org: Bandits, Exploration vs. Exploitation, and the Cold Start Problem](https://people.orie.cornell.edu/pfrazier/Presentations/2014.01.Lancaster.Arxiv.pdf) - Peter Frazier (Cornell University)
 
 
 [**return to contents**](#contents)

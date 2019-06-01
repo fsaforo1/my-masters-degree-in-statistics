@@ -382,6 +382,8 @@ I struggled in this class partly because I had a terrible load of 18 credits tha
 
 ## Multivariate Statistics
 
+I took this class after the GLM modules - it kind of made this class somewhat redundant. I suggest you read on the freely available NC State class on Nonlinear Models for Univariate and Multivariate Response as a supplement.
+
 * [Applied Multivariate Methods for Data Analysts](https://www.amazon.com/Applied-Multivariate-Methods-Data-Analysts/dp/0534237967) - Dallas E. Johnson
 * [A First Course in Structural Equation Modeling, 2nd ed.](https://www.amazon.com/First-Course-Structural-Equation-Modeling/dp/0805855882) - Tenko et al.
 * [Applied Multivariate Analysis](https://onlinecourses.science.psu.edu/stat505/) - Penn State

@@ -2,7 +2,7 @@
 
 A curated list of resources for my custom-designed Master's degree in Statistics with a concentration in Machine Learning at Louisiana State University.     
 
-Yeah, it's a lot! I wanted to learn about a variety of interesting topics with connections to Machine Learning, so I ended up taking **56 credits in total (the equivalent of almost 2 masters degrees)**.
+Yeah, it's a lot! I wanted to learn a variety of interesting topics with connections to Machine Learning, so I ended up taking **56 credits in total (the equivalent of almost 2 masters degrees)**.
 
 
 
@@ -538,7 +538,16 @@ soon...
 
 # MOOCs
 
-* []
+List incomplete...
+
+* [Mining Massive Datasets](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about) - Stanford University Online (Lagunita)
+* [Data Intensive Scientific Computing](https://edge.edx.org/courses/course-v1:NotreDame+00000+00/about) - edX (University of Notre Dame)
+* [Convolutional Neural Networks for Text](https://www.youtube.com/watch?v=vnzKAhs7nds&index=5&list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT) - Graham Neubig (Carnegie Mellon University)
+* [Big Data Analytics Using Spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x) - edX (UC San Diego)
+* [The Ultimate Hands-On Hadoop - Tame your Big Data](https://bit.ly/2XlC4tB) - Udemy
+* [High-performance Computing for Reproducible Genomics](https://www.edx.org/course/high-performance-computing-reproducible-harvardx-ph525-6x-1) - edX (Harvard University)
+* [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507) - Udacity, and a [ton of Tutorials](https://github.com/d3/d3/wiki/Tutorials)
+* [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) - edX (Harvard University)
 
 *************************
 
@@ -550,16 +559,8 @@ soon...
 
 # Miscs
 
-List incomplete...
+soon...
 
-* [Mining Massive Datasets](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about) - Stanford University Online (Lagunita)
-* [Data Intensive Scientific Computing](https://edge.edx.org/courses/course-v1:NotreDame+00000+00/about) - edX (University of Notre Dame)
-* [Convolutional Neural Networks for Text](https://www.youtube.com/watch?v=vnzKAhs7nds&index=5&list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT) - Graham Neubig (Carnegie Mellon University)
-* [Big Data Analytics Using Spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x) - edX (UC San Diego)
-* [The Ultimate Hands-On Hadoop - Tame your Big Data](https://bit.ly/2XlC4tB) - Udemy
-* [High-performance Computing for Reproducible Genomics](https://www.edx.org/course/high-performance-computing-reproducible-harvardx-ph525-6x-1) - edX (Harvard University)
-* [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507) - Udacity, and a [ton of Tutorials](https://github.com/d3/d3/wiki/Tutorials)
-* [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) - edX (Harvard University)
 
 *************************
 *************************

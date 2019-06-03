@@ -330,6 +330,9 @@ Although not necessary, I recommend you take this class simultaneously with an i
 * [Design and Analysis of Experiments - GitHub Repo](https://github.com/fcampelo/Design-and-Analysis-of-Experiments)
 * [Elements of Causal Inference: Foundations and Learning Algorithms ](https://mitpress.mit.edu/books/elements-causal-inference) - Peters et al.
 * [Tutorial: Online Experiments for Computational Social Science](https://eytan.github.io/www-15-tutorial/) - Eytan Bakshy and Sean J. Taylor 
+* [Tutorial: Propensity Score Analysis with R](http://journals.sfu.ca/jmde/index.php/jmde_1/article/download/431/414/) and a [GitHub Repo](https://github.com/jbryer/psa)
+* [Lecture Notes: Causal Modeling, Especially Graphical Causal Models](https://www.stat.cmu.edu/~cshalizi/402/lectures/22-causal-models/lecture-22.pdf) - Cosma Shalizi(CMU)
+* [Lecture Notes: Estimating Causal Models](https://www.stat.cmu.edu/~cshalizi/402/lectures/23-causal-estimation/lecture-23.pdf) - Cosma Shalizi(CMU)
 * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)
 * [Paper: Social Influence in Social Advertising: Evidence from Field Experiments](https://arxiv.org/pdf/1206.4327.pdf) - Eytan et al. 2012.  
 
@@ -437,6 +440,9 @@ Dive into these as much as you can - they are the best materials on Introduction
 * [Bayesian Networks: With Examples in R](https://www.crcpress.com/Bayesian-Networks-With-Examples-in-R/Scutari-Denis/p/book/9781482225587) - Marco Scutari, Jean-Baptiste Denis
 * [Data Science and Complex Networks: Real Case Studies with Python](https://global.oup.com/academic/product/data-science-and-complex-networks-9780199639601?cc=us&lang=en&) - Guido Caldarelli and Alessandro Chessa
 * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)  
+* [Lecture Notes: Causal Modeling, Especially Graphical Causal Models](https://www.stat.cmu.edu/~cshalizi/402/lectures/22-causal-models/lecture-22.pdf) - Cosma Shalizi(CMU)
+* [Lecture Notes: Estimating Causal Models](https://www.stat.cmu.edu/~cshalizi/402/lectures/23-causal-estimation/lecture-23.pdf) - Cosma Shalizi(CMU)
+* [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)
 * [Example: Exponential Random Graph Modelling](http://rstudio-pubs-static.s3.amazonaws.com/329810_72b09e66276044949bc3bdc2cfcd6161.html)
 
 [**return to contents**](#contents)
@@ -486,6 +492,7 @@ I took this class simultaneously with Dr. Kevin S. McCarter's Multivariate Analy
 
 * [Longitudinal Data Analysis](https://www4.stat.ncsu.edu/~davidian/st732/) - Marie Davidian(NC State University)
 * [Applied Multivariate and Longitudinal Data Analysis](https://www.stat.ncsu.edu/people/staicu/courses/st495-590/index.html)
+* [Tutorial: Propensity Score Matching](https://sejdemyr.github.io/r-tutorials/statistics/tutorial8.html)
 
 [**return to contents**](#contents)
 
@@ -530,7 +537,8 @@ soon...
 *************************
 
 # MOOCs
-soon...
+
+* []
 
 *************************
 
@@ -542,7 +550,16 @@ soon...
 
 # Miscs
 
-soon...
+List incomplete...
+
+* [Mining Massive Datasets](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about) - Stanford University Online (Lagunita)
+* [Data Intensive Scientific Computing](https://edge.edx.org/courses/course-v1:NotreDame+00000+00/about) - edX (University of Notre Dame)
+* [Convolutional Neural Networks for Text](https://www.youtube.com/watch?v=vnzKAhs7nds&index=5&list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT) - Graham Neubig (Carnegie Mellon University)
+* [Big Data Analytics Using Spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x) - edX (UC San Diego)
+* [The Ultimate Hands-On Hadoop - Tame your Big Data](https://bit.ly/2XlC4tB) - Udemy
+* [High-performance Computing for Reproducible Genomics](https://www.edx.org/course/high-performance-computing-reproducible-harvardx-ph525-6x-1) - edX (Harvard University)
+* [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507) - Udacity, and a [ton of Tutorials](https://github.com/d3/d3/wiki/Tutorials)
+* [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) - edX (Harvard University)
 
 *************************
 *************************

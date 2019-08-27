@@ -32,6 +32,7 @@ Yeah, it's a lot! I wanted to learn a variety of interesting topics with connect
         * [Resampling Methods for Time Series](#resampling-methods-for-time-series) 
         * [Time Series Anomaly Detection](#time-series-anomaly-detection)
         * [Time Series Changepoint Models](#time-series-changepoint-models)
+    * [Generalized Nonlinear Models](#generlaized-nonlinear-models)
     * [Design of Experiments](#design-of-experiments)
 * [Advanced Applied](#advanced-applied)
     * [Computational Linear Algebra](#computational-linear-algebra)

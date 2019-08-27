@@ -238,6 +238,9 @@ Current reading materials is [Generalized Linear and Nonlinear Models for Correl
 
 
 
+
+[**return to contents**](#contents)
+
 ********************  
 
 ### Categorical Data Analysis

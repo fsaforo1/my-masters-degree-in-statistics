@@ -229,6 +229,16 @@ This stand-alone class on regression is one of the best classes I took at LSU. T
 
 ********************
 
+## Generalized Nonlinear Models
+
+Interest in this field after my Fall 2019 summer internship.
+
+Current reading materials is [Generalized Linear and Nonlinear Models for Correlated Data: Theory and Applications Using SAS](https://www.oreilly.com/library/view/generalized-linear-and/9781599946474/).
+
+
+
+********************  
+
 ### Categorical Data Analysis
 
 Again Dr. Brian D. Marx does a masterful job at teaching this class. This class introduces the concepts of Generalized Linear Modelling, with the latter half of the class focusing mainly on the analysis of categorical/discrete data. 

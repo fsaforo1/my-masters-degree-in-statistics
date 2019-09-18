@@ -36,6 +36,7 @@ Yeah, it's a lot! I wanted to learn a variety of interesting topics with connect
     * [Design of Experiments](#design-of-experiments)
 * [Advanced Applied](#advanced-applied)
     * [Computational Linear Algebra](#computational-linear-algebra)
+    * [Advanced Statistical Computing](#advanced-statistical-computing)
     * [Bayesian Analysis](#bayesian-analysis)
     * [Multivariate Statistics](#multivariate-statistics)
     * [Statistical Machine Learning](#statistical-machine-learning)
@@ -370,6 +371,28 @@ Basically numerical methods to linear algebra
 
 * [Computational Linear Algebra with Python](https://github.com/fastai/numerical-linear-algebra)
 * [Computational Linear Algebra Videos](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) - Rachel Thomas  
+
+[**return to contents**](#contents)
+
+******************
+
+## Advanced Statistical Computing
+
+Although one of the most important skills a modern statistician needs to acquire, this field is barely teased in graduate statistics programs in the US. You can think of the techniques discussed in this module as machine translations or implementations of statistical algorithms. And provides answers or introduces questions like how computers solve statistical problems. Sampling and/or Resampling techniques, the EM and other deterministic algorithms, and the whole gamut of [Markov Chain] Monte Carlo algorithms including the rather famous Gibbs Sampler, and some popular machine learning optimization algorithms like Stochastic Gradient Descent are discussed. Concepts on convergence and numerical optimization are further explored. Ideas on cloud computing and parallel computing are also introduced.
+
+Best taken in parallel with the Bayesian Analysis and Advanced Statistical Modeling modules, and after the Generalized Linear Models modules. Having a good background in both Linear Algebra and Real Analysis will for sure make life a little easier in this module.  
+
+The **Computing for Data Science** provides a practical introduction to modern techniques for computing with data, teaching advanced use of the R system and exploring connections to other environments such as C, python, Java, and databases. Students learn and practice the use of R for serious applications. Hands-on practice with all the paradigms, including parallel, cluster and map/reduce style computation.
+
+
+* [**Advanced Statistical Computing with Python**](http://stronginference.com/Bios8366/lectures.html) and accompanying [repo](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/tree/master/) - Chris Fonnesbeck (Vanderbilt University)
+* [**Computing for Data Science**](http://scpd.stanford.edu/search/publicCourseSearchDetails.do?method=load&courseId=5370712) - John Chambers and Balasubramanian Narasimhan (Stanford University)  
+* [**Computational Statistics with Python**](https://people.duke.edu/~ccc14/sta-663/) - Duke University
+* [Book: Introducing Monte Carlo Methods with R](https://www.springer.com/us/book/9781441915757) - Christian Robert and George Casella
+* [Open Source Book: Advanced Statistical Computing with R](https://bookdown.org/rdpeng/advstatcomp/) - Roger D. Peng (John Hopkins University)
+* [Book: An Introduction to Scientific Programming and Simulation Using R.](https://www.crcpress.com/Introduction-to-Scientific-Programming-and-Simulation-Using-R/Jones-Maillardet-Robinson/p/book/9781466569997) - Jones, Owens; Maillardet, Robert & Robinson, Andrew. (2011).  
+
+
 
 [**return to contents**](#contents)
 

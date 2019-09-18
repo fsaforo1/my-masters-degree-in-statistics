@@ -382,7 +382,7 @@ Although one of the most important skills a modern statistician needs to acquire
 
 Best taken in parallel with the Bayesian Analysis and Advanced Statistical Modeling modules, and after the Generalized Linear Models modules. Having a good background in both Linear Algebra and Real Analysis will for sure make life a little easier in this module.  
 
-The **Computing for Data Science** provides a practical introduction to modern techniques for computing with data, teaching advanced use of the R system and exploring connections to other environments such as C, python, Java, and databases. Students learn and practice the use of R for serious applications. Hands-on practice with all the paradigms, including parallel, cluster and map/reduce style computation.
+The **Computing for Data Science** provides a practical introduction to modern techniques for computing with data, teaching advanced use of the R system and exploring connections to other environments such as C, python, Java, and databases. It also provides a hands-on practice on some computing paradigms, including parallel, cluster and map/reduce style computation.
 
 
 * [**Advanced Statistical Computing with Python**](http://stronginference.com/Bios8366/lectures.html) and accompanying [repo](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/tree/master/) - Chris Fonnesbeck (Vanderbilt University)

@@ -2,7 +2,7 @@
 
 A curated list of resources for my custom-designed Master's degree in Statistics with a concentration in Machine Learning at Louisiana State University.     
 
-Yeah, it's a lot! I wanted to learn a variety of interesting topics with connections to Machine Learning, so I ended up taking **56 credits in total (the equivalent of almost 2 masters degrees)**.
+Yeah, it's a lot! I wanted to learn a variety of interesting topics with connections to Machine Learning, so I ended up taking **a ton of classes**.
 
 
 

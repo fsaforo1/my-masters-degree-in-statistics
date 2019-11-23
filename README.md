@@ -25,7 +25,7 @@ Yeah, it's a lot! I wanted to learn a variety of interesting topics with connect
 * [Applied](#applied)
     * [Statistical Methods](#statistical-methods)
     * [Statistical Computing](#statistical-computing)
-    * [Generalized Linear Models](#generlaized-linear-models)
+    * [Generalized Linear Models](#generalized-linear-models)
         * [Regression Analysis](#regression-analysis)
         * [Categorical Data Analysis](#categorical-data-analysis)
     * [Time Series Analysis](#time-series-analysis)

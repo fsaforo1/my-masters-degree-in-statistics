@@ -44,10 +44,12 @@ Yeah, it's a lot! I wanted to learn a variety of interesting topics with connect
     * [Network Analysis and Causal Inference](#network-analysis-and-causal-inference)
     * [Advanced Statistical Modelling](#advanced-statistical-modelling)
     * [Probabilistic Graphical Models](#probabilistic-graphical-models)
-    * [Longitudinal Data Analysis](longitudinal-data-analysis)
-    * [Survival and Reliability Analysis](survival-and-reliability-analysis)
+    * [Longitudinal Data Analysis](#longitudinal-data-analysis)
+    * [Survival and Reliability Analysis](#survival-and-reliability-analysis)
     * [Databases](#databases)
-* [Research](#research)
+* [Potential PhD Research Areas](#potential-phd-research-areas)  
+    * [Representation Learning](#representation-learning)
+
 * [Personal and Practicuum Consulting Projects](#personal-and-practicuum-consulting-projects)    
 * [MOOCs](#moocs) 
 * [People and Programs](#people-and-programs)
@@ -400,7 +402,18 @@ The **Computing for Data Science** provides a practical introduction to modern t
 
 ## Bayesian Analysis
 
-I struggled in this class partly because I had a terrible load of 18 credits that semester - which is A LOT for graduate shool. I spent the subsequent semester vacation reviewing the material and I found it surprisingly coherent. I found reading materials from other schools and practicing the coding very useful. 
+I struggled in this class partly because I had a terrible load of 18 credits that semester - which is A LOT for graduate shool. I spent the subsequent semester vacation reviewing the material and I found it surprisingly coherent and accessible. I found reading materials from other schools and practicing the coding very useful.   
+
+I have come to like it so much that I am even considering a lifetime of research in Bayesian frameworks.
+
+I would strongly recommend the following materials first before any advanced material:  
+
+* [Statistical Rethinking](https://github.com/rmcelreath/statrethinking_winter2019) - Richard McElreath  
+* [Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto) - Aki Vehtari 
+
+
+As always, it is good to look up the similar content from other schools or programs:
+
 
 * [Bayesian Methods and Modern Statistics - Course GitHUb Repo](https://github.com/resteorts/modern-bayes) - Rebecca Steorts (Duke University) 
 * [Bayesian Methods and Modern Statistics - Course Website](http://www2.stat.duke.edu/~rcs46/bayes18.html) - Rebecca Steorts (Duke University)
@@ -422,7 +435,10 @@ I struggled in this class partly because I had a terrible load of 18 credits tha
 
 ## Multivariate Statistics
 
-I took this class after the GLM modules - it kind of made this class somewhat redundant. I suggest you read on the freely available NC State class on Nonlinear Models for Univariate and Multivariate Response as a supplement.
+I took this class after the GLM modules - it kind of made this class at LSU is somewhat redundant. I suggest you read on the freely available NC State class on Nonlinear Models for Univariate and Multivariate Response as a supplement.   
+
+This course is extremely vital if you are interested in any high dimensional statistics or manifold learning in general. So I suggest you look elsewhere for relevant materials.
+
 
 * [Applied Multivariate Methods for Data Analysts](https://www.amazon.com/Applied-Multivariate-Methods-Data-Analysts/dp/0534237967) - Dallas E. Johnson
 * [A First Course in Structural Equation Modeling, 2nd ed.](https://www.amazon.com/First-Course-Structural-Equation-Modeling/dp/0805855882) - Tenko et al.
@@ -453,7 +469,18 @@ Dive into these as much as you can - they are the best materials on Introduction
 
 ********************
 
-## Deep Learning 
+## Deep Learning   
+
+**Stanford Univeristy** has made this topic and all its allied topics amazingly accessible, and freely available online. Just burry yourself in these 4 classes on Deep Learning:  
+
+* [CS230 Deep Learning](https://cs230.stanford.edu/)  
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)  
+* [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)   
+* [STATS 385: Analyses of Deep Learning](https://stats385.github.io/)
+
+
+I found these other materials also useful:  
+
 
 * [Machine Learning - Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera (2010-2014)
 * [Deep Learning with Python](faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf) - Francois Chollet
@@ -469,9 +496,14 @@ Dive into these as much as you can - they are the best materials on Introduction
 
 ## Network Analysis and Causal Inference
 
+Discovering this area of statistics has been more than fulfilling - it bridges several disciplines like Philosophy (although more subtly), Behavorial Psychology and Economics, Geometric Topology and Probabilistic Modelling. I have dedicated most of my weekends perusing as much material on these topics as I can.   
+
+My current reading materials or courses are based on the following:  
+
 * [Statistical Network Analysis](https://www.stat.cmu.edu/~cshalizi/networks/16-1/) - Cosma Shalizi (Carnegie Mellon University)
 * [Advanced Statistical Network Models](https://www.stat.cmu.edu/~cshalizi/networks/16-2/) - Cosma Shalizi (Carnegie Mellon University)
-* [Social and Information Network Analysis](http://snap.stanford.edu/class/cs224w-2016/handouts.html) - Jure Leskovec (Stanford University)
+* [Social and Information Network Analysis](http://snap.stanford.edu/class/cs224w-2016/handouts.html) - Jure Leskovec (Stanford University)  
+* [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) - Jure Leskovec (Stanford University)  
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) -  David Easley and Jon Kleinberg
 * [Statistical Analysis of Network Data with R](https://link.springer.com/book/10.1007%2F978-1-4939-0983-4) - Eric D. KolaczykGábor Csárdi
 * [Bayesian Networks: With Examples in R](https://www.crcpress.com/Bayesian-Networks-With-Examples-in-R/Scutari-Denis/p/book/9781482225587) - Marco Scutari, Jean-Baptiste Denis
@@ -562,7 +594,7 @@ I have also been trying to learn how to model survival data with Deep Learning a
 *************************
 
 
-# Research 
+# Potential PhD Research Areas
 
 soon...
 

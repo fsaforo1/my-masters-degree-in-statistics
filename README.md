@@ -510,6 +510,7 @@ My current reading materials or courses are based on the following:
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) -  David Easley and Jon Kleinberg
 * [Statistical Analysis of Network Data with R](https://link.springer.com/book/10.1007%2F978-1-4939-0983-4) - Eric D. KolaczykGábor Csárdi
 * [Bayesian Networks: With Examples in R](https://www.crcpress.com/Bayesian-Networks-With-Examples-in-R/Scutari-Denis/p/book/9781482225587) - Marco Scutari, Jean-Baptiste Denis
+* [Bayesian Network in R with Applications in Systems Biology](https://link.springer.com/book/10.1007%2F978-1-4614-6446-4) - Radhakrishnan NagarajanMarco ScutariSophie Lèbre.  
 * [Data Science and Complex Networks: Real Case Studies with Python](https://global.oup.com/academic/product/data-science-and-complex-networks-9780199639601?cc=us&lang=en&) - Guido Caldarelli and Alessandro Chessa
 * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)  
 * [Lecture Notes: Causal Modeling, Especially Graphical Causal Models](https://www.stat.cmu.edu/~cshalizi/402/lectures/22-causal-models/lecture-22.pdf) - Cosma Shalizi(CMU)

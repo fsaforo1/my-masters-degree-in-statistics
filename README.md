@@ -21,7 +21,7 @@ Yeah, it's a lot! I wanted to learn a variety of interesting topics with connect
         * [Real Analysis](#real-analysis)
         * [Measure Theory](#measure-theory)
         * [Stochastic processes](#stochastic-processes)
-    * [Convex Optimization](#statistical-learning)
+    * [Convex Optimization](#convex-optimization)
 * [Applied](#applied)
     * [Statistical Methods](#statistical-methods)
     * [Statistical Computing](#statistical-computing)
@@ -172,7 +172,7 @@ Here are the bitter pills that you just have to swallow :)
 
 ## Convex Optimization 
 
-This subject is a MUST.
+This module is a MUST. Enough said!
 
 * [Convex Optimization](https://see.stanford.edu/Course/EE364A) - Stephen P. Boyd (Stanford University)  
 * [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) - Ryan Tibshirani (Carnegie Mellon University)  
@@ -226,7 +226,8 @@ This stand-alone class on regression is one of the best classes I took at LSU. T
 * [Regression: Models, Methods and Applications](https://www.springer.com/us/book/9783642343322) - B.D. Marx et al.
 * [Introduction to Linear Regression Analysis 5th Edition](https://www.amazon.com/Introduction-Regression-Analysis-Douglas-Montgomery/dp/0470542810) - Montgomery et al.
 * [The Truth About Linear Regression](http://www.stat.cmu.edu/~cshalizi/TALR/TALR.pdf) - Cosma Shalizi (Carnegie Mellon University)
-* [Foundations of Linear and Generalized Linear Models](https://www.oreilly.com/library/view/foundations-of-linear/9781118730058/) - Alan Agresti (University of Florida)
+* [Foundations of Linear and Generalized Linear Models](https://www.oreilly.com/library/view/foundations-of-linear/9781118730058/) - Alan Agresti (University of Florida)  
+* [Extending the Linear Model with R](https://github.com/robjhyndman/ETC3580/blob/master/Faraway%20(2016)%20Extending%20the%20linear%20model%20with%20R.pdf)
 * [Example: https://cran.r-project.org/web/packages/BradleyTerryScalable/vignettes/BradleyTerryScalable.html](https://cran.r-project.org/web/packages/BradleyTerryScalable/vignettes/BradleyTerryScalable.html)
 
 [**return to contents**](#contents)
